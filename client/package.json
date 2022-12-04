@@ -1,6 +1,5 @@
 {
   "type": "module",
-  "license": "GNU General Public License v3.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
